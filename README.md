@@ -53,7 +53,7 @@ A conversational application concept designed to simplify ordering through inter
 
 ## 🔥 Contribution Overview
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gouthaman11&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gouthaman11&theme=github-dark&hide_border=true" />
 </p>
 
 ---
