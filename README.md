@@ -46,10 +46,9 @@ A conversational application concept designed to simplify ordering through inter
 ## 📊 Development Activity (Auto Updating)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gouthaman11&show_icons=true&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gouthaman11&layout=compact&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gouthaman11&show_icons=true&hide_border=true&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gouthaman11&layout=compact&hide_border=true&cache_seconds=1800" height="165"/>
 </p>
-
 ---
 
 ## 🔥 Contribution Overview
@@ -66,12 +65,6 @@ A conversational application concept designed to simplify ordering through inter
 
 ---
 
-## 🐍 Contribution Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Gouthaman11/Gouthaman11/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 🎯 Development Philosophy
 ```text
