@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gouthaman</h1>
-<h3 align="center">Software Developer • Full-Stack Enthusiast • IT Student</h3>
+<h3 align="center">Software Developer • Full-Stack Builder • IT Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Gouthaman11&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -8,48 +8,42 @@
 ---
 
 ## 👨‍💻 About Me
-I am an Information Technology student and aspiring software developer passionate about building practical and efficient applications.  
-I enjoy transforming ideas into real-world solutions and continuously improving my development skills through hands-on projects.
+I’m an Information Technology student and software developer who enjoys designing and building practical digital solutions.  
+My interest lies in creating applications that are clean, efficient, and meaningful for real users.
 
-My approach to learning is simple: **build consistently, learn deeply, and improve continuously.**
+Rather than only learning concepts, I prefer **learning by building** — turning ideas into working systems and improving them through continuous iteration.
 
----
-
-## 🚀 Technical Skills
-
-### Programming
-- C
-- Java
-- Python
-- JavaScript
-
-### Web Development
-- MongoDB
-- Express.js
-- React.js
-- Node.js
-- HTML & CSS
-
-### Tools & Concepts
-- Git & GitHub
-- REST APIs
-- Database Design
-- Problem Solving
-- Operating Systems Fundamentals
+> *Consistency, curiosity, and problem solving drive my development journey.*
 
 ---
 
-## 📌 Projects
+## 🚀 Core Skills
+
+### 💻 Programming
+C • Java • Python • JavaScript
+
+### 🌐 Full-Stack Development
+MongoDB • Express.js • React.js • Node.js  
+HTML • CSS • REST API Development
+
+### ⚙️ Tools & Fundamentals
+Git & GitHub • Database Design  
+Problem Solving • Operating Systems Concepts  
+Application Architecture Basics
+
+---
+
+## 📌 Selected Projects
 
 ### 🗂️ Task Management System
-A full-stack web application designed to manage workflows, assign tasks, and monitor project progress efficiently.
+A full-stack productivity platform built to manage workflows, assign responsibilities, and monitor project progress within a structured environment.
 
 ### 🍔 Chatbot Food Ordering System
-A conversational application concept focused on simplifying the food ordering experience.
+A conversational application concept designed to simplify ordering through interactive and user-friendly communication.
 
 ---
 
-## 📊 GitHub Statistics (Auto Updating)
+## 📊 Development Activity (Auto Updating)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gouthaman11&show_icons=true&hide_border=true" height="165"/>
@@ -58,27 +52,30 @@ A conversational application concept focused on simplifying the food ordering ex
 
 ---
 
-## 🔥 Contribution Activity Graph
+## 🔥 Contribution Overview
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gouthaman11&hide_border=true" />
 </p>
 
 ---
 
-## ⚡ Commit Streak
+## ⚡ Consistency Tracker
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gouthaman11&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake (Auto Generated)
+## 🐍 Contribution Animation
 <p align="center">
   <img src="https://raw.githubusercontent.com/Gouthaman11/Gouthaman11/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🎯 Developer Philosophy
+## 🎯 Development Philosophy
 ```text
-Think → Design → Build → Improve → Repeat
+Understand the problem
+Design simple solutions
+Build with clarity
+Improve continuously
