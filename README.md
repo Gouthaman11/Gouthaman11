@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- HERO -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=220&section=header&text=Gouthaman%20A&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Full-Stack%20Builder%20%7C%20IT%20Student&descAlignY=60&descSize=18" width="100%"/>
 
 <br>
@@ -122,6 +120,50 @@ Debug
   ↓
 Improve
 ```
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🏃 Athlnet Growth Monitoring System
+
+A digital platform focused on tracking and monitoring athlete growth and development through structured performance data.
+
+### Key Areas
+
+`Athlete Profiles`
+`Growth Tracking`
+`Performance Monitoring`
+`Progress Analysis`
+`Data Management`
+
+Designed to organize athlete information and make long-term development easier to monitor through software-based tracking.
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🩸 Bloodbank Inventory System
+
+A management platform designed to organize and monitor blood bank inventory efficiently.
+
+### Key Areas
+
+`Blood Stock Management`
+`Blood Group Tracking`
+`Inventory Monitoring`
+`Availability Tracking`
+`Database Management`
+
+Designed to provide a structured way to manage blood-unit information and improve visibility of available inventory.
 
 </td>
 </tr>
